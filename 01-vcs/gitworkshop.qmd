@@ -134,21 +134,21 @@ Intro: 5min
 Intro: 5min
 :::
 
-## Git Basics
+## Pontos turísticos
 
--   **Repository**: A Git repository is a collection of files and their complete history of changes.
+-   Não sei quais são
 
--   **Commit**: A commit is a snapshot of the repository at a specific point in time. It represents a set of changes made to the files.
+-   **Baixa-Chiado**: Muitos restaurantes e sítios para visitar.
 
--   **Branch**: A branch is a separate line of development. It allows you to work on different features or bug fixes without affecting the main codebase.
+-   **Terreiro do Paço**
 
--   **Merge**: Merging combines changes from different branches into a single branch.
+-   **Sintra**
 
 ::: notes
 Setup account: 10min
 :::
 
-## Git Workflow
+## Git Transports
 
 ::: columns
 ::: {.column width="40%"}
@@ -168,14 +168,6 @@ Setup account: 10min
 Hands-on: 15min
 :::
 
-## Conclusion
+## Conclusao
 
-::: columns
-::: {.column width="40%"}
-Git is a powerful tool for version control and collaboration. Understanding its basics is essential for any software developer.
-:::
-
-::: {.column width="60%"}
-![More information on Git](images/paste-1.png){fig-align="center" width="400"}
-:::
-:::
+O melhor lugar de Lisboa é o Porto
