@@ -124,11 +124,11 @@ classDef versionClass fill:#eee,stroke-width:0px
 Intro: 5min
 :::
 
-## Why use Git?
+## Porquê Lisboa?
 
--   Git helps track changes to files and allows you to easily revert to previous versions.
--   It enables collaboration and allows multiple people to work on the same project simultaneously.
--   Git provides a history of changes, making it easier to understand the evolution of a project.
+-   Jardim Zoológico;
+-   Bairro Alto;
+-   Torre de Belém.
 
 ::: notes
 Intro: 5min
